@@ -1,5 +1,5 @@
 # kickstarter-analysis
-###An Analysis of Kickstarter Campaigns
+# An Analysis of Kickstarter Campaigns
 brief description 
 Three reasonable conclusions
 Limitations of the dataset and suggestions for additional tables and graphs
