@@ -19,8 +19,10 @@ The dataset analyzed however might have some limitations that hinders the accura
 A further study on the percentage funded of the campaigns in the dataset should be helpful for Louise in her decision making process. As it gives a more detailed analysis on the profitability of these campaigns.
 
 ### Challenge
-Purpose: To determine whether the length of a campain contributes to its ultimate success or failure
-The alysis suggests that launch date and target goal have a crucial effect on the outcomes of the campaigns. 
+Purpose: To determine whether the length of a campain contributes to its ultimate success or failure.
+
+
+The analysis suggests that launch date and target goal have a crucial effect on the outcomes of the campaigns. 
 
 
 ![OutcomesOnGoal](https://github.com/Thinguyen23/kickstarter-analysis/blob/master/OutcomesOnGoal.png)
