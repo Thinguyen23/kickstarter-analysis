@@ -7,4 +7,4 @@ Recommendations for Louise
 # Challenge
 Description: Determine whether the length of a campain contributes to its ultimate success or failure
 The analysis conducted includes:
-![OutcomesOnGoal](C:/Users/Thi/Desktop/Bootcamp Projects/Crowdfunding analysis/Graphs/OutcomesOnGoal.png)
+![OutcomesOnGoal](https://github.com/Thinguyen23/kickstarter-analysis/blob/master/OutcomesOnGoal.png)
